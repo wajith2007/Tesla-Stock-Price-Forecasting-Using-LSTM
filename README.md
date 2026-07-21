@@ -163,7 +163,3 @@ The LSTM model successfully learns historical stock price trends and generates p
 ## Author
 
 **Mohamed Wajith**
-
-BCA (Artificial Intelligence)
-
-B.S. Abdur Rahman Crescent Institute of Science and Technology
